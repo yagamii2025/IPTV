@@ -1,0 +1,6 @@
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="",IINTERNATIONAL (576p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="PMCRoyale.ae@SD",PMC Royale (1080p)
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="sports" tvg-logo="" tvg-id="",BEIN Sports (1080p)
+https://cp11.adabmedia.com/hls2/sport.m3u8
